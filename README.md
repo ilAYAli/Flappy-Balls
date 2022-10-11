@@ -4,8 +4,6 @@ For Pythonista (on iOS et al)
 
 Python(ista) is not my main programming language, this was just made to inspire my kids to learn programming)
 
-<video src='assets/demo.mov' width=180/> | <video src='assets/demo.mov' width=180/>
 
-[![Watch the game](https://i.imgur.com/vKb2F1B.png)](https://github.com/ilAYAli/Flappy-Balls/blob/main/assets/demo.mov?raw=true)
-
+https://user-images.githubusercontent.com/1106732/195167258-ab046bab-7c3f-405f-af69-dd7b29b4f279.mov
 
